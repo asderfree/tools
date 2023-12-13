@@ -1,0 +1,18 @@
+# Ignore build artifacts
+**/target/*
+
+# Ignore binary files
+bin/*
+
+# Ignore .DS_Store files
+.DS_Store
+
+# Ignore test files
+tests/*
+
+# Ignore specific logs
+*.log
+
+# Ignore IDE generated files
+.idea/*
+*.iml
