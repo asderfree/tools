@@ -1,0 +1,1 @@
+/home/vg/bench/tools/pwdmng/target/debug/pwdmng: /home/vg/bench/tools/pwdmng/src/cmd.rs /home/vg/bench/tools/pwdmng/src/db.rs /home/vg/bench/tools/pwdmng/src/main.rs /home/vg/bench/tools/pwdmng/src/user.rs
