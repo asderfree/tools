@@ -16,3 +16,4 @@ tests/*
 # Ignore IDE generated files
 .idea/*
 *.iml
+**/.vscode/*
